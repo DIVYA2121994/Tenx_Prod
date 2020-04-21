@@ -109,7 +109,7 @@
 							<fileSets>
 								<fileSet>
 									<!-- Report directory Path -->
-									<directory>E:\Selenium-Programs\ProductionStatus\test-output</directory>
+									<directory>D:\git\Tenx_Prod\test-output</directory>
 									<includes>
 										<!-- Report file name -->
 										<include>ProdStatusReport.html</include>
@@ -118,7 +118,7 @@
 										html files to send -->
 								</fileSet>
 								<fileSet>
-									<directory>E:\Selenium-Programs\ProductionStatus\target\surefire-reports</directory>
+									<directory>D:\git\Tenx_Prod\target\surefire-reports</directory>
 									<includes>
 										<include>emailable-report.html</include>
 										<include>index.html</include>
